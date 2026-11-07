@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a PhD student at the University of Padova, researching Software Security, with a focus on Android.
+I am a Lead Mobile Threat Engineer at Huawei and a PhD Candidate at the University of Padova, researching Software Security, with a focus on Android.
 
 I have worked on multiple projects broadly centered on:
 - Malware analysis and detection
